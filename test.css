@@ -6,3 +6,7 @@ html, body {
     line-height: 1.53846154;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
+  
+  .arForm__label {
+      color: yellow;
+  }
